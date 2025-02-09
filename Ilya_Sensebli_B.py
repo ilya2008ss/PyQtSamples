@@ -1,9 +1,4 @@
-# مشخصات:
-# ایلیا سن سبلی
-# 09028400733
-# گلستان
-# آق قلا
-# نمونه دولتی علامه حلیimport sys
+import sys
 
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (
